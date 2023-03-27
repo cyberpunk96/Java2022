@@ -1,5 +1,5 @@
 
-public class Main {
+public class EnBuyukSayı{
 
 	public static void main(String[] args) {
 		char grade = 'E';
